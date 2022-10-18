@@ -1,0 +1,10 @@
+
+@media only screen and (max-width: 768px) {
+    .table :where(thead,tfoot) :where(th,td) {
+        --tw-bg-opacity: 1;
+        background-color: hsl(var(--b2,var(--b1))/var(--tw-bg-opacity));
+        text-transform: uppercase;
+        font-size: .75rem;
+        padding-left: 4px;
+    }
+  }

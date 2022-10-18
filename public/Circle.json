@@ -1,0 +1,69 @@
+[
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "category": "Men's Sneaker",
+        "name": "Bedroom",
+        "seller": "Addidas",
+        "price": 319,
+        "stock": 7,
+        "ratings": 4,
+        "ratingsCount": 1360,
+        "img": "https://i.ibb.co/52ZCtSg/f1.png",
+        "shipping": 50,
+        "quantity": 0
+      },
+   
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "category": "Men's Sneaker",
+      "name": "Living ",
+      "seller": "Addidas",
+      "price": 196,
+      "stock": 19,
+      "ratings": 5,
+      "ratingsCount": 4355,
+      "img": "https://i.ibb.co/pn4DV7f/f2.png",
+      "shipping": 14,
+      "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category": "Men's Sneaker",
+        "name": "Dining",
+        "seller": "Addidas",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/TTghpfp/dinning.png",
+        "shipping": 1,
+        "quantity": 0
+      },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "category": "Men's Sneaker",
+      "name": "Lounge",
+      "seller": "Addidas",
+      "price": 245,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3972,
+      "img": "https://i.ibb.co/qywPGGQ/f4.png",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category": "Men's Sneaker",
+      "name": "Office chair",
+      "seller": "Addidas",
+      "price": 229,
+      "stock": 10,
+      "ratings": 5,
+      "ratingsCount": 1764,
+      "img": "https://i.ibb.co/pn4DV7f/f2.png",
+      "shipping": 32,
+      "quantity": 0
+    }
+    
+  ]
