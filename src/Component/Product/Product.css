@@ -1,0 +1,13 @@
+.card-body {
+    padding: var(--padding-card,1rem);
+    flex-direction: column;
+    flex: auto;
+    gap: .5rem;
+    display: flex;
+}
+.faeyes{
+    cursor: pointer;
+}
+/* .card:hover + .card>.faeyes{
+ display: visible;
+}  */
