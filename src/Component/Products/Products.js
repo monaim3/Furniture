@@ -64,7 +64,7 @@ const Products = () => {
             <h5 className='text-xl text-center mt-4 mb-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elitsed do <br />eiusmo tempor incididunt ut labore
 
             </h5>
-            <div className="flex justify-around w-24	 lg:mx-auto lg:flex justify-content-evenly my-2 mt-10 sortBtn lg:flex-wrap">
+            <div className="md:flex justify-around w-24	 lg:mx-auto lg:flex justify-content-evenly my-2 mt-10 sortBtn lg:flex-wrap">
          
             <button className={active==='all'?"inline-block px-8 py-3.5 bg-slate-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md  hover:shadow-lg focus:bg-salte-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-orange-400 active:shadow-lg transition duration-150 ease-in-out":"inline-block px-8 py-3.5 bg-orange-400 text-white font-medium text-xs leading-tight uppercase rounded shadow-md  hover:shadow-lg focus:bg-salte-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-orange-400 active:shadow-lg transition duration-150 ease-in-out"} onClick={() =>{
                  Allhandle('all')
